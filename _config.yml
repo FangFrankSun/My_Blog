@@ -60,7 +60,7 @@ kramdown:
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'fangfranksun'  
+  shortname: 'fsunblog'  
   
 # Disqus settings
 disqus_username: fangfranksun
