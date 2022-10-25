@@ -63,7 +63,7 @@ disqus:
   shortname: 'fsunblog'  
   
 # Disqus settings
-disqus_username: fangfranksun
+#disqus_username: fangfranksun
 
 # Netease settings
 netease_comment: false
