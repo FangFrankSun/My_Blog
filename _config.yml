@@ -58,11 +58,11 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-disqus:
-  comments: true  # boolean type, the global switch for posts comments.
-  shortname: 'fsunblog'  
-# Disqus settings
-#disqus_username: fangfranksun
+#disqus:
+  #comments: true  # boolean type, the global switch for posts comments.
+  #shortname: 'fsunblog'  
+Disqus settings
+  disqus_username: hux
 
 # Netease settings
 netease_comment: false
