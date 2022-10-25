@@ -61,7 +61,7 @@ kramdown:
 #disqus:
   #comments: true  # boolean type, the global switch for posts comments.
   #shortname: 'fsunblog'  
-Disqus settings
+#Disqus settings
   disqus_username: hux
 
 # Netease settings
