@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Fang (Frank) Sun
+SEOTitle: 孙昉的博客 | Frankeyyy Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+description: "这里是孙昉的博客，一个有一点小抱负的理想主义未来智慧建筑师 | 斜杠青年本人"
+keyword: "孙昉, Frank, Frank Sun, 建筑, 设计, 计算机, 智慧城市, 智慧建筑"
+url: "https://blog.fangfranksun.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
