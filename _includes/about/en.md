@@ -3,6 +3,22 @@ a senior student double majoring in [Architecture](https://www.arch.virginia.edu
   
 I am also a chess national master with uscf rating 2359, and I have my own firm called [Hummer Education](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills. And now we started to do software development courses as well, with online tutorials in Chinese for most of them.
 
+I am always looking for folks who are interested in aiding on ongoing or newly created projects.
+* Please contact me at **fs3unu@virginia.edu**
+* Some of the ongoing projects:
+  * Computation:
+    * Firm webpage development (*php, js*)
+    * Web chess game (*vue, js, css*)
+    * WeChat student-teacher management system (*python, js, mysql*)
+  * Architecture:
+    * Smart parking garage design and development (*3D modeling, java*)
+    * Edgemere District Renovation (*3D Modeling, ArcGIS*)
+
+If you have an idea and would like to see if I will be interested in helping out, please contact me!
+<h2>News</h2>
+- Jan 30, 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal website established
+- Oct 21, 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bilibili](https://space.bilibili.com/28145687) and [Youtube](https://www.youtube.com/channel/UC4XPHb4BGTt9V1TSoWhi2tQ) Channel establish for tutorials
+
 
 <!-- 
 ##### Appearence
