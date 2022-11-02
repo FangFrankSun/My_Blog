@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 8d809906ef300be73e0d                            #生成的clientID
   clientSecret: bfd8315ed95c188c1d432492f7e5600d59e4eb89    #生成的clientSecret
-  repo: FangFrankSun/My_Blog    #仓库名称
+  repo: My_Blog    #仓库名称
   owner: FangFrankSun    #github用户名
   admin: FangFrankSun
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
