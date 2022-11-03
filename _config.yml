@@ -91,7 +91,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "G-JMC0KLTP7S" # Format: UA-xxxxxx-xx
+ga_track_id: "340671625" # Format: UA-xxxxxx-xx
 ga_domain: blog.fangfranksun.com
 
 # Sidebar settings
